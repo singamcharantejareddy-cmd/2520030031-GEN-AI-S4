@@ -1,5 +1,0 @@
-.venv/
-__pycache__/
-*.pyc
-tokenizer_results.csv
-.cache/
