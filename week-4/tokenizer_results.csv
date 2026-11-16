@@ -1,0 +1,10 @@
+﻿Language,Tokenizer,Word_Count,Token_Count,Token_Ratio
+English,BPE (GPT-2),7,9,1.286
+English,WordPiece (Multilingual BERT),7,11,1.571
+English,SentencePiece (mT5 Unigram),7,11,1.571
+Telugu,BPE (GPT-2),7,148,21.143
+Telugu,WordPiece (Multilingual BERT),7,22,3.143
+Telugu,SentencePiece (mT5 Unigram),7,18,2.571
+Hindi,BPE (GPT-2),11,96,8.727
+Hindi,WordPiece (Multilingual BERT),11,23,2.091
+Hindi,SentencePiece (mT5 Unigram),11,19,1.727
